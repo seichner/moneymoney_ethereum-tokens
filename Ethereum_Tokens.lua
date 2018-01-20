@@ -1,7 +1,7 @@
 -- Inofficial Ethereum Extension for MoneyMoney
 -- Uses the EthPlorer API to retrieve ETH/ERC20 balances
 -- Uses the CryptoCompare-API to retrieve prices
--- Returns the asses as MoneyMoney-securities
+-- Returns the assets as MoneyMoney-securities
 
 -- inspired by https://github.com/Jacubeit/Ethereum-MoneyMoney (Johannes Jacubeit)
 
