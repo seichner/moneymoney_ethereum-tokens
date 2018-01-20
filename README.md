@@ -18,6 +18,6 @@ The new extension is available without restarting MoneyMoney.
 
 Add a new account (Other -> Ethereum+ERC20)
 
-* Enter your public Ethereum address as username (like 0x856E8d572ea04dda092e29...)
+* Enter your public Ethereum address as username (like 0x856E8d572ea04dda092e29...) (separate multiple addresses by comma)
 * Enter "123" as password (or anything else, doesn't matter)
 
